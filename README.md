@@ -4,6 +4,8 @@ Mi nombre es Aldana Mañaricua, soy estudiante avanzada de la Lic. en Sociologí
 En el siguiente porfolio se encuentran los proyectos finales que realice en los cursos de Data Analytics y Data Science, además también forman parte otros proyectos que realice de forma autodidacta para obtener experiencia en el campo.
 Dejo Adjunto mi perfil de [Linkedin](www.linkedin.com/in/aldana-estefania-mañaricua-a7b1b1199).
 
+### Descripción de los proyectos:
+
 1- Proyecto de Data Analytics (2023). El empleo en Argentina durante el gobierno de Alberto Fernández 2019-2023. 
 Los Dataset que utilice para el analisis son del gobierno de la República Argentina.
 [Data Analytics](https://github.com/Aldanaem/Porfolio/tree/db12228481b629ec8d821eb490b4d64cf2c535b5/Data%20Analytics)
