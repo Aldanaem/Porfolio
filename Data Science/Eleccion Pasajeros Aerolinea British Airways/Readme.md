@@ -1,6 +1,6 @@
-![portada](Datos/Analizar las preferencias de los pasajeros BA.png)
 
-# ANALISIS DE LAS ELECCIONES DE LOS PASAJEROS DE AEROLINEAS BRITISH AIRWAYS
+
+# ANALIZAR LAS ELECCIONES DE LOS PASAJEROS DE AEROLINEAS BRITISH AIRWAYS
 
 ## INTRODUCCION 
 Lo que se pretende con este proyecto es un análisis de de todas las elecciones de los pasajeros a la hora de reservar un vuelo, para desarrollar un plan de negocios que nos ayude a la toma de decisiones de una empresa.
