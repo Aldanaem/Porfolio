@@ -1,4 +1,4 @@
-![portada](Datos/grupo8.png)
+![portada](Datos/Analizar las preferencias de los pasajeros BA.png)
 
 # ANALISIS DE LAS ELECCIONES DE LOS PASAJEROS DE AEROLINEAS BRITISH AIRWAYS
 
