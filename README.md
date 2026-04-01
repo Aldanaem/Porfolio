@@ -15,3 +15,4 @@ Los Dataset que utilice para el analisis son del gobierno de la República Argen
 Los Data set que utilice para el analisis fueron obtenidos de Kaggle. 
 [Data Science](https://github.com/Aldanaem/Porfolio/tree/db12228481b629ec8d821eb490b4d64cf2c535b5/Data%20Science/Eleccion%20Pasajeros%20Aerolinea%20British%20Airways)
 
+3- Proyecto grupal Big Data- Data Analytics con Looker Studio (2024)- Informe para Construction Materials Megacorp, empresa multinacional de materiales de construcción, que comenzó actividades en la región LATAM (comprendida por Argentina y países limítrofes) en el primer cuatrimestre de 2024. 
